@@ -17,6 +17,5 @@ Happy to meet you.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhouxy2003&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![访客计数](https://visitor-badge.glitch.me/badge?page_id=zhouxy2003.zhouxy2003&left_text=访客)
 
 
