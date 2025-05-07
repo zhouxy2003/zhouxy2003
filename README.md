@@ -15,4 +15,6 @@ Happy to meet you.
 </div>
 ### 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=你的用户名&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhouxy2003&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏙️ My GitHub Skyline
+![Skyline](https://github.com/zhouxy2003/zhouxy2003/raw/main/assets/skyline.gif)
