@@ -14,8 +14,9 @@ Happy to meet you.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhouxy2003&layout=compact&card_width=320&langs_count=8&hide_border=false" height="150" />
 </div>
 
+### GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhouxy2003&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhouxy2003&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=5&rank=SECRET,SSS,SS,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
