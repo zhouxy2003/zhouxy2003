@@ -13,7 +13,7 @@ Happy to meet you.
   <img src="https://github-readme-stats.vercel.app/api?username=zhouxy2003&hide_title=true&show_icons=true&count_private=true&hide_border=false&locale=en" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhouxy2003&layout=compact&card_width=320&langs_count=8&hide_border=false" height="150" />
 </div>
-### 🏆 GitHub Trophy
+### 🏆 **GitHub Trophy**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhouxy2003&theme=onedark&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ### 🏙️ My GitHub Skyline
